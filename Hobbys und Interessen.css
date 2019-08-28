@@ -10,7 +10,7 @@ body {
 	}
 h1 {	
 	text-align: center;
-	color:#4a5b70;
+	color:#4097aa;
 	font-size:40pt;
 }
 h3 {
@@ -67,7 +67,7 @@ ul {
 		margin: 0;
 		padding: o;
 		overflow: hidden;
-		background-color: #4a5b70;
+		background-color: #2d4057;
 		position: fixed;
 		top: 0;
 		left: 0;
@@ -80,11 +80,11 @@ ul {
 	
 li {
 	float: left;
-	border-bottom: 1px solid#e1d7fc;
+	border-bottom: 1px solid#f4d1ae;
 }
 a {
   display: Block;
-  color: #cffcf1;
+  color: #fa9483;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -92,14 +92,14 @@ a {
 }
 hr{ 
   height: 1px;
-  color: white;
-  background-color: white;
+  color: #fa9483;
+  background-color: #fa9483;
   border: none;
 }
 
 /* Change the link color on hover */
 li a:hover {
-  background-color: #e1d7fc;
+  background-color: #fa9483;
   color: black;
   
   
